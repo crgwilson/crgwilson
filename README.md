@@ -1,3 +1,8 @@
-<p align="center">
-  <img width="400" height="400" src="https://media0.giphy.com/media/XreQmk7ETCak0/giphy.gif?cid=ecf05e47v5uva2nha8t1ndxas38drebweyazmmlwzheqckpc&rid=giphy.gif">
-</p>
+<!-- markdownlint-disable no-inline-html -->
+### Hi, I'm Craig
+
+I'm a computer wrangler and this is my dumping ground for side projects that I feel may be useful, and miscellaneous things that I wanted to play with.
+
+![Profile details](http://info.nerdcity.io/github/0-profile-details.svg)
+
+![Repos per language](http://info.nerdcity.io/github/1-repos-per-language.svg)  ![Most commit language](http://info.nerdcity.io/github/2-most-commit-language.svg)
