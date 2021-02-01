@@ -1,7 +1,6 @@
-<!-- markdownlint-disable no-inline-html -->
 ### Hi, I'm Craig
 
-I'm a computer wrangler and this is my dumping ground for side projects that I feel may be useful, and miscellaneous things that I wanted to play with.
+I'm a general computer wrangler and this is my dumping ground for side projects that I feel may be useful, and miscellaneous things that I wanted to play with.
 
 ![Profile details](http://info.nerdcity.io/github/0-profile-details.svg)
 
